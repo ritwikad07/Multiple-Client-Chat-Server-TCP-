@@ -1,4 +1,4 @@
-# TCP Server & Multiple-Clients Messenger
+# Multiple-Clients Messenger and TCP server
 
 ## Overview
 
